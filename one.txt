@@ -8,3 +8,6 @@ This is added by another branch into master -1
 
 This is added by another branch into master -1
 
+This is added by another branch into master -2 rebasebranch
+
+This is added by another branch into master -2 branch master
